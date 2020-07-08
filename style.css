@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    border-radius: 20px;
+    border: 10px 10px;
+    border: black;
+}
+.total{
+    background-color: rgba(128, 255, 0, 0.863);
+    margin:13px 5px 6px 20px;
+    padding: 20px;
+    border-radius:10px;
+}
+.perc{
+    background-color: rgba(128, 255, 0, 0.986);
+    margin:13px 5% 6px 20px;
+    padding: 20px;
+    border-radius:10px;
+}
+.tip{
+    background-color: rgba(128, 255, 0, 0.863);
+    margin:13px 1% 6px 20px;
+    padding: 20px;
+    border-radius:10px;
+}
+.bill{
+    background-color: rgba(128, 255, 0, 0.863);
+    margin:13px 15px 6px 20px;
+    padding: 20px;
+    border-radius:10px;
+}
+#error{
+    background-color:whitesmoke;
+    text-align: center;
+    color: tomato;
+    
+}
+button{
+    background-color: violet;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 12px;
+}
+label{
+    padding: 2px;
+    margin: 10px;
+    color: yellowgreen;
+
+
+}
